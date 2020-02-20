@@ -8,4 +8,5 @@ function multiply(w, x, y, z) {
 }
 
 var m = multiply(a, b, c, d);
+
 console.log(m);
